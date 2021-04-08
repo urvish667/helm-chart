@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  machine-learning-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-08T08:38:29.702662661Z"
+    description: This app will predict the passanger will service or not from titanic incident.
+    digest: b2ace78a600b3408c10f2005c818ad1329e1274099c793d6318f86c9808ec337
+    name: machine-learning-chart
+    type: application
+    urls:
+    - machine-learning-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-08T08:38:29.699782229Z"
